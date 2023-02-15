@@ -48,7 +48,7 @@ public class Guide {
      *  Methods usually return something. Returning means that the method produces some value and ends.
      *  Methods oftentimes have parameters as well, which are like temporary variables that can be
      *  given to a method when it is used. If you imagine a search engine as a method, you can think of
-     *  the search text as a parameter, and the results of the search as the returned value.
+
      *
      *  For any method other than constructors, we must define a return type. Just like variables, return
      *  types must have a data type defined. Here this is String, which is a term for text in programming
